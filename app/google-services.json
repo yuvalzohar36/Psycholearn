@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "302693754455",
+    "firebase_url": "https://psycholearn-281fe.firebaseio.com",
+    "project_id": "psycholearn-281fe",
+    "storage_bucket": "psycholearn-281fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302693754455:android:d327aed3c5573a4a2a2512",
+        "android_client_info": {
+          "package_name": "com.example.psycholearn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302693754455-spckrsf5hc5l83e8fe62g31sm1hh58rp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.psycholearn",
+            "certificate_hash": "3681378b2b1879ef6977e7ebb5e2080e74a79011"
+          }
+        },
+        {
+          "client_id": "302693754455-i9rkftra7merbpfop9q79g8em7g9g23c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbr78abQ9gfdYTs-rpzXsPFsywkl-6ezY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "302693754455-i9rkftra7merbpfop9q79g8em7g9g23c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
